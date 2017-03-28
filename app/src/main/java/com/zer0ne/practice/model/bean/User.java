@@ -3,6 +3,7 @@ package com.zer0ne.practice.model.bean;
 public class User {
     private String username;
     private String password;
+    private String id;
 
     public String getUsername() {
         return username;
